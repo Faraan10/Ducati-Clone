@@ -1,0 +1,205 @@
+.bgimg {
+    background-image: url("https://images.ctfassets.net/x7j9qwvpvr5s/1WafH6OJZlZMjqkxgqsFku/dab1f4068f4955b8c1b79be3f0878522/WSBK22-RWC-hero-1600x1000.jpg?fm=webp&q=90");
+    background-size: cover;
+    height: 130vh;
+}
+
+#go {
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    border-radius:7px;
+}
+
+.navimage {
+    height: 70px;
+    width: 70px;
+}
+
+#go:hover {
+    background-color: black;
+    color: white;
+}
+
+.buttonimg {
+    height: 60px;
+    width: 190px;
+    color: White;
+    background-color: red;
+    border-radius: 3px;
+    padding: 15px;
+    margin-left: 10px;
+    margin-top: 560px;
+    border: none;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.image2 {
+    background-image: url("https://images.ctfassets.net/x7j9qwvpvr5s/4l4UCCzqW9vU0rZONGApr9/83cde124927f0df024522ce3a8b6c375/Pecco-banner-full-1330x600.jpg");
+    background-size: cover;
+    height: 105vh;
+}
+
+.setbutton2 {
+    height: 60px;
+    width: 190px;
+    color: White;
+    background-color: red;
+    border-radius: 3px;
+    padding: 15px;
+    margin-left: 100px;
+    margin-top: 500px;
+    border: none;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.square {
+    height: 400px;
+    width: 363px;
+    border-radius: 10px;
+    border-width: 1px;
+    cursor: pointer;
+}
+
+.squareimg {
+    height: 250px;
+    width: 361px;
+    border-radius: 5px;
+}
+
+.squarehead {
+    font-size: 17px;
+    color: grey;
+}
+
+.squarepara {
+    font-size: 15px;
+    font-weight: normal;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.suare:hover {
+    box-shadow: 0 0 30px white;
+}
+
+.image3 {
+    background-image: url("https://images.ctfassets.net/x7j9qwvpvr5s/5UrkkK5kwKCUfzTT5Zd1PS/ee18b05e673e7467d6b58283e149725f/Ducati-famiglia-multistrada-2020-banner-full-1330x600-02.jpg");
+    background-size: cover;
+    height: 120vh;
+}
+
+.setbutton3 {
+    height: 60px;
+    width: 190px;
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+    padding: 15px;
+    font-family: arial;
+    font-weight: bold;
+    border: none;
+    font-size: 14px;
+    margin-left: 100px;
+    margin-top: 350px;
+}
+
+.head {
+    font-style: arial;
+    color: white;
+    font-size: 32px;
+    margin-left: 150px;
+}
+
+.para {
+    font-style: arial;
+    color: white;
+    font-size: 19px;
+    margin-left: 150px;
+}
+
+
+.longboxes{
+    width:95%;
+    margin-left:20px;
+    cursor:pointer;
+}
+
+
+.longboximg1{
+    width:390px;
+}
+.longboxhead6{
+    margin-top:40px;
+    font-size: 15px;
+    color: grey;
+    margin-right:20px;
+}
+.longboxhead4{
+    margin-top:10px;
+    font-size: 25px;
+    font-family:arial;
+    font-weight:bold;
+}
+.longboxpara{
+    font-size: 19px;
+    font-family:arial;
+}
+#lastsection{
+    background-color:black;
+}
+.sectionhead2{
+    margin-top:20px;
+    color:#807a77
+}
+.brand{
+    font-style:italic;
+    font-weight:bold;
+    font-family:arial;
+    margin-right:10px;
+    color:#807a77
+}
+.continuebrand{
+    margin-left:10px;
+    color:#807a77
+}
+.headers{
+    margin-top:50px;
+    color:#807a77;
+    cursor:pointer;
+}
+.first{
+    margin-right:20px;
+    color:#807a77
+}
+.second{
+    margin-right:20px;
+    color:#807a77
+}
+.third{
+    color:#807a77
+}
+.copyright{
+    color:#807a77
+}
+.socialicons{
+    font-size:35px;
+    cursor:pointer;
+}
+#icenter1{
+    text-align:center;
+}
+.fa-brands{
+    color:#807a77;
+}
+.fa-brands:hover{
+    color:white;
+}
+.fa-facebook, .fa-instagram, .fa-linkedin, .fa-youtube{
+    margin:40px;
+}
+

@@ -1,0 +1,45 @@
+.bgimg{
+    background-image: url("https://images.ctfassets.net/x7j9qwvpvr5s/7hSq3EexdSgoyACMUkWMcU/922bd258b6085c906da97c49dd54421c/Corporate-Chi-Siamo-01-Hero-Short-1600x1000.jpg?fm=webp&q=80");
+    background-size: cover;
+    height: 130vh;
+    width: 98.6vw;
+}
+.navimage {
+    height: 70px;
+    width: 70px;
+    margin-left:610px;
+}
+.head5{
+    font-family:arial;
+    font-size:17px;
+    font-weight:bold;
+    color:white;
+    margin-top:550px;
+}
+.head2{
+    font-family:arial;
+    font-size:40px;
+    font-weight:bold;
+    color:white;
+}
+.paraone{
+    font-family:'Times New Roman', Times, serif;
+    font-size:50px;
+    margin-left:50px;
+    color:black
+}
+.paratwo{
+    font-size:20px;
+}
+.modify{
+    color:black;
+    font-weight:bold;
+}
+.backbutton{
+    font-family:arial;
+    font-weight:500;
+    padding:4px;
+    border-radius:7px;
+    background-color:black;
+    color:white;
+}
